@@ -4,15 +4,15 @@
       "interval_interstitial": 3,
       "interstitial_type" : "lap",
       "switch_ads_type": "only_banner",
-      "make_app_crash_when_app_not_live_at_play_store": true,
+      "make_app_crash_when_app_not_live_at_play_store": false,
       "make_app_under_maintenance": false
     },
 
     "ad_network": [
       {
-        "name": "admob",
+        "name": "off",
         "value": 1,
-		"min_time": 120,
+	"min_time": 120,
 
         "appId_appKey_publisherId_gameId": "-",
         "banner": "-",
@@ -76,11 +76,124 @@
   "Data": [
     {
       "id": 1,
-      "name_category": "Under Maintenance",
-      "title": "This Application is Under Construction",
-      "image": "https://cdn.pixabay.com/photo/2017/06/20/08/12/maintenance-2422171_960_720.jpg",
-      "description": "We would like to inform you that the application is currently under maintenance",
-      "link": "<p>We would like to inform you that the application is currently undergoing maintenance and improvements. We apologize for any inconvenience this may cause and appreciate your patience as we work to enhance your experience.</p>"
+      "name_category": "Info",
+      "title": "What is Jeffrey Celavie?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc0rzRGXXpGL8aWJQwa4wzV4K2rdnXJkEB89jHLgSuJ4SaV3Yd10JfrcOlDoK7IbynDH5jLyF6DLCH1nuzOOD_vOaaDc_7oQEoDlCNyuifqLQAUvw9L3WueAl7QKSNqS9XRD1GHw_RcjqIRqBQO7bL5S4ZNzgjEBMJ-HMJSRMLV7-GfsV0VK95GnZk7LA/w400-h400/unnamed%20(3).webp",
+      "description": "Like other AIs, this platform is designed to help users understand astrological concepts and make predictions using AI technology",
+      "link": "https://assetdigitalguide.blogspot.com/p/what-is-jeffrey-celavie.html"
+    },
+	{
+      "id": 2,
+      "name_category": "Info",
+      "title": "Features of Jeffrey Celavie’s AI Astrology",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc0rzRGXXpGL8aWJQwa4wzV4K2rdnXJkEB89jHLgSuJ4SaV3Yd10JfrcOlDoK7IbynDH5jLyF6DLCH1nuzOOD_vOaaDc_7oQEoDlCNyuifqLQAUvw9L3WueAl7QKSNqS9XRD1GHw_RcjqIRqBQO7bL5S4ZNzgjEBMJ-HMJSRMLV7-GfsV0VK95GnZk7LA/w400-h400/unnamed%20(3).webp",
+      "description": "Here are the features you should know about Jeffrey Celavie AI Astrology",
+      "link": "https://assetdigitalguide.blogspot.com/p/features-of-jeffrey-celavies-ai.html"
+    },
+	{
+      "id": 3,
+      "name_category": "Info",
+      "title": "How do I use the Jeffrey Cleave Website?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc0rzRGXXpGL8aWJQwa4wzV4K2rdnXJkEB89jHLgSuJ4SaV3Yd10JfrcOlDoK7IbynDH5jLyF6DLCH1nuzOOD_vOaaDc_7oQEoDlCNyuifqLQAUvw9L3WueAl7QKSNqS9XRD1GHw_RcjqIRqBQO7bL5S4ZNzgjEBMJ-HMJSRMLV7-GfsV0VK95GnZk7LA/w400-h400/unnamed%20(3).webp",
+      "description": "Visit the Jeffrey Cleave AI website.",
+      "link": "https://assetdigitalguide.blogspot.com/p/how-do-i-use-jeffrey-cleave-website.html"
+    },
+	{
+      "id": 4,
+      "name_category": "Info",
+      "title": "Calculation of Astral Maps and Zodiac Information",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc0rzRGXXpGL8aWJQwa4wzV4K2rdnXJkEB89jHLgSuJ4SaV3Yd10JfrcOlDoK7IbynDH5jLyF6DLCH1nuzOOD_vOaaDc_7oQEoDlCNyuifqLQAUvw9L3WueAl7QKSNqS9XRD1GHw_RcjqIRqBQO7bL5S4ZNzgjEBMJ-HMJSRMLV7-GfsV0VK95GnZk7LA/w400-h400/unnamed%20(3).webp",
+      "description": "At the core of Jeffrey Celavie AI’s capabilities lies its ability to calculate Astral Maps and Zodiac information.",
+      "link": "https://assetdigitalguide.blogspot.com/p/calculation-of-astral-maps-and-zodiac.html"
+    },
+	{
+      "id": 5,
+      "name_category": "Info",
+      "title": "AI Techniques and Astrological Principles",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc0rzRGXXpGL8aWJQwa4wzV4K2rdnXJkEB89jHLgSuJ4SaV3Yd10JfrcOlDoK7IbynDH5jLyF6DLCH1nuzOOD_vOaaDc_7oQEoDlCNyuifqLQAUvw9L3WueAl7QKSNqS9XRD1GHw_RcjqIRqBQO7bL5S4ZNzgjEBMJ-HMJSRMLV7-GfsV0VK95GnZk7LA/w400-h400/unnamed%20(3).webp",
+      "description": "effrey Celavie AI stands apart from traditional astrology platforms by fusing AI techniques with age-old astrological principles.",
+      "link": "https://assetdigitalguide.blogspot.com/p/ai-techniques-and-astrological.html"
+    },
+	{
+      "id": 6,
+      "name_category": "Info",
+      "title": "Personalized Astrology Insights",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc0rzRGXXpGL8aWJQwa4wzV4K2rdnXJkEB89jHLgSuJ4SaV3Yd10JfrcOlDoK7IbynDH5jLyF6DLCH1nuzOOD_vOaaDc_7oQEoDlCNyuifqLQAUvw9L3WueAl7QKSNqS9XRD1GHw_RcjqIRqBQO7bL5S4ZNzgjEBMJ-HMJSRMLV7-GfsV0VK95GnZk7LA/w400-h400/unnamed%20(3).webp",
+      "description": "Once the AI algorithms have thoroughly examined your astral map and zodiac sign",
+      "link": "https://assetdigitalguide.blogspot.com/p/personalized-astrology-insights.html"
+    },
+	{
+      "id": 7,
+      "name_category": "Info",
+      "title": "Chatbot Interface for Seamless Interaction",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc0rzRGXXpGL8aWJQwa4wzV4K2rdnXJkEB89jHLgSuJ4SaV3Yd10JfrcOlDoK7IbynDH5jLyF6DLCH1nuzOOD_vOaaDc_7oQEoDlCNyuifqLQAUvw9L3WueAl7QKSNqS9XRD1GHw_RcjqIRqBQO7bL5S4ZNzgjEBMJ-HMJSRMLV7-GfsV0VK95GnZk7LA/w400-h400/unnamed%20(3).webp",
+      "description": "Jeffrey Celavie AI boasts a user-friendly chatbot interface, enabling you to interact with it through text messages or voice commands",
+      "link": "https://assetdigitalguide.blogspot.com/p/chatbot-interface-for-seamless.html"
+    },
+	{
+      "id": 8,
+      "name_category": "Info",
+      "title": "A Fusion of Astrology and Artificial Intelligence",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc0rzRGXXpGL8aWJQwa4wzV4K2rdnXJkEB89jHLgSuJ4SaV3Yd10JfrcOlDoK7IbynDH5jLyF6DLCH1nuzOOD_vOaaDc_7oQEoDlCNyuifqLQAUvw9L3WueAl7QKSNqS9XRD1GHw_RcjqIRqBQO7bL5S4ZNzgjEBMJ-HMJSRMLV7-GfsV0VK95GnZk7LA/w400-h400/unnamed%20(3).webp",
+      "description": "The brilliance of Jeffrey Celavie AI lies in its seamless integration of ancient astrological practices with state-of-the-art artificial intelligence",
+      "link": "https://assetdigitalguide.blogspot.com/p/a-fusion-of-astrology-and-artificial.html"
+    },
+	{
+      "id": 9,
+      "name_category": "Info",
+      "title": "Individual Experiences with Jeffrey Celavie AI",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc0rzRGXXpGL8aWJQwa4wzV4K2rdnXJkEB89jHLgSuJ4SaV3Yd10JfrcOlDoK7IbynDH5jLyF6DLCH1nuzOOD_vOaaDc_7oQEoDlCNyuifqLQAUvw9L3WueAl7QKSNqS9XRD1GHw_RcjqIRqBQO7bL5S4ZNzgjEBMJ-HMJSRMLV7-GfsV0VK95GnZk7LA/w400-h400/unnamed%20(3).webp",
+      "description": "It’s important to recognize that individual experiences with Jeffrey Celavie AI may vary",
+      "link": "https://assetdigitalguide.blogspot.com/p/individual-experiences-with-jeffrey.html"
+    },
+	{
+      "id": 10,
+      "name_category": "Info",
+      "title": "The Accuracy of Jeffrey Celavie AI",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc0rzRGXXpGL8aWJQwa4wzV4K2rdnXJkEB89jHLgSuJ4SaV3Yd10JfrcOlDoK7IbynDH5jLyF6DLCH1nuzOOD_vOaaDc_7oQEoDlCNyuifqLQAUvw9L3WueAl7QKSNqS9XRD1GHw_RcjqIRqBQO7bL5S4ZNzgjEBMJ-HMJSRMLV7-GfsV0VK95GnZk7LA/w400-h400/unnamed%20(3).webp",
+      "description": "The accuracy of astrological predictions can vary depending on numerous factors, and Jeffrey Celavie AI is no exception",
+      "link": "https://assetdigitalguide.blogspot.com/p/the-accuracy-of-jeffrey-celavie-ai.html"
+    },
+	{
+      "id": 11,
+      "name_category": "Info",
+      "title": "What can Jeffrey Celavie provide?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc0rzRGXXpGL8aWJQwa4wzV4K2rdnXJkEB89jHLgSuJ4SaV3Yd10JfrcOlDoK7IbynDH5jLyF6DLCH1nuzOOD_vOaaDc_7oQEoDlCNyuifqLQAUvw9L3WueAl7QKSNqS9XRD1GHw_RcjqIRqBQO7bL5S4ZNzgjEBMJ-HMJSRMLV7-GfsV0VK95GnZk7LA/w400-h400/unnamed%20(3).webp",
+      "description": "Jeffrey Celavie offers the following:",
+      "link": "https://assetdigitalguide.blogspot.com/p/what-can-jeffrey-celavie-provide.html"
+    },
+	{
+      "id": 12,
+      "name_category": "Info",
+      "title": "How does Jeffrey Celavie work?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc0rzRGXXpGL8aWJQwa4wzV4K2rdnXJkEB89jHLgSuJ4SaV3Yd10JfrcOlDoK7IbynDH5jLyF6DLCH1nuzOOD_vOaaDc_7oQEoDlCNyuifqLQAUvw9L3WueAl7QKSNqS9XRD1GHw_RcjqIRqBQO7bL5S4ZNzgjEBMJ-HMJSRMLV7-GfsV0VK95GnZk7LA/w400-h400/unnamed%20(3).webp",
+      "description": "Jeffrey Celavie AI is a powerful platform that offers users insights into their lives using AI technology. Here’s how it works",
+      "link": "https://assetdigitalguide.blogspot.com/p/how-does-jeffrey-celavie-work.html"
+    },
+	{
+      "id": 13,
+      "name_category": "Info",
+      "title": "Jeffrey Celavie AI Alternatives",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc0rzRGXXpGL8aWJQwa4wzV4K2rdnXJkEB89jHLgSuJ4SaV3Yd10JfrcOlDoK7IbynDH5jLyF6DLCH1nuzOOD_vOaaDc_7oQEoDlCNyuifqLQAUvw9L3WueAl7QKSNqS9XRD1GHw_RcjqIRqBQO7bL5S4ZNzgjEBMJ-HMJSRMLV7-GfsV0VK95GnZk7LA/w400-h400/unnamed%20(3).webp",
+      "description": "Let’s take a closer look at some of these AI-powered alternatives:",
+      "link": "https://assetdigitalguide.blogspot.com/p/jeffrey-celavie-ai-alternatives.html"
+    },
+	{
+      "id": 14,
+      "name_category": "Info",
+      "title": "FAQs",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc0rzRGXXpGL8aWJQwa4wzV4K2rdnXJkEB89jHLgSuJ4SaV3Yd10JfrcOlDoK7IbynDH5jLyF6DLCH1nuzOOD_vOaaDc_7oQEoDlCNyuifqLQAUvw9L3WueAl7QKSNqS9XRD1GHw_RcjqIRqBQO7bL5S4ZNzgjEBMJ-HMJSRMLV7-GfsV0VK95GnZk7LA/w400-h400/unnamed%20(3).webp",
+      "description": "Frequently Asked Questions Jeffrey Celavie AI",
+      "link": "https://assetdigitalguide.blogspot.com/p/faqs.html"
+    },
+	{
+      "id": 15,
+      "name_category": "Info",
+      "title": "Conclusion",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc0rzRGXXpGL8aWJQwa4wzV4K2rdnXJkEB89jHLgSuJ4SaV3Yd10JfrcOlDoK7IbynDH5jLyF6DLCH1nuzOOD_vOaaDc_7oQEoDlCNyuifqLQAUvw9L3WueAl7QKSNqS9XRD1GHw_RcjqIRqBQO7bL5S4ZNzgjEBMJ-HMJSRMLV7-GfsV0VK95GnZk7LA/w400-h400/unnamed%20(3).webp",
+      "description": "Jeffrey Celavie AI is a groundbreaking AI-powered astrology chatbot that combines the wisdom of Vedic, Western, and Chinese astrology to provide personalized and reliable astrological guidance",
+      "link": "https://assetdigitalguide.blogspot.com/p/conclusion.html"
     }
+	
   ]
 }
