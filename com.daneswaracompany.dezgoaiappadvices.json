@@ -5,14 +5,14 @@
       "interstitial_type" : "lap",
       "switch_ads_type": "only_banner",
       "make_app_crash_when_app_not_live_at_play_store": true,
-      "make_app_under_maintenance": false
+      "make_app_under_maintenance": true
     },
 
     "ad_network": [
       {
-        "name": "admob",
+        "name": "off",
         "value": 1,
-		"min_time": 120,
+	"min_time": 120,
 
         "appId_appKey_publisherId_gameId": "-",
         "banner": "-",
