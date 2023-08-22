@@ -4,15 +4,14 @@
       "interval_interstitial": 3,
       "interstitial_type" : "lap",
       "switch_ads_type": "only_banner",
-      "make_app_crash_when_app_not_live_at_play_store": true,
-      "make_app_under_maintenance": true
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "make_app_under_maintenance": false
     },
 
     "ad_network": [
       {
         "name": "off",
         "value": 1,
-	"min_time": 120,
 
         "appId_appKey_publisherId_gameId": "-",
         "banner": "-",
@@ -76,11 +75,115 @@
   "Data": [
     {
       "id": 1,
-      "name_category": "Under Maintenance",
-      "title": "This Application is Under Construction",
-      "image": "https://cdn.pixabay.com/photo/2017/06/20/08/12/maintenance-2422171_960_720.jpg",
-      "description": "We would like to inform you that the application is currently under maintenance",
-      "link": "<p>We would like to inform you that the application is currently undergoing maintenance and improvements. We apologize for any inconvenience this may cause and appreciate your patience as we work to enhance your experience.</p>"
+      "name_category": "Info",
+      "title": "Introduction to Uptodown: Exploring a World of Apps",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3l_kU5ZA109URvjI7TrHyGEaoXP7Xm4gs8z8a06hlBAFQHp4XrdoX-Lfw09_1_IPNJe_nTuTrbxmL-EwHYIY5UYvQN1fcuX0yN5LmIhB5DROXxJ5ab55v-sd8E3hZlQUOoGr1YEGDAIq2YFx0U9pmY3KsjcrBC5_d5OFxTfemCMeeW9-VVQg9V66hvo8/w400-h400/unnamed%20(4).webp",
+      "description": "In a digital age where applications shape the way we work, play, and communicate, finding the right apps is paramount",
+      "link": "https://assetdigitalguide.blogspot.com/p/introduction-to-uptodown-exploring.html"
+    },
+	{
+      "id": 2,
+      "name_category": "Info",
+      "title": "Exploring the Key Features of Uptodown",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3l_kU5ZA109URvjI7TrHyGEaoXP7Xm4gs8z8a06hlBAFQHp4XrdoX-Lfw09_1_IPNJe_nTuTrbxmL-EwHYIY5UYvQN1fcuX0yN5LmIhB5DROXxJ5ab55v-sd8E3hZlQUOoGr1YEGDAIq2YFx0U9pmY3KsjcrBC5_d5OFxTfemCMeeW9-VVQg9V66hvo8/w400-h400/unnamed%20(4).webp",
+      "description": "Uptodown, known for its diverse app offerings, introduces users to a plethora of features that set it apart from the traditional app store experience",
+      "link": "https://assetdigitalguide.blogspot.com/p/exploring-key-features-of-uptodown.html"
+    },
+	{
+      "id": 3,
+      "name_category": "Info",
+      "title": "Unlocking the Benefits of Uptodown",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3l_kU5ZA109URvjI7TrHyGEaoXP7Xm4gs8z8a06hlBAFQHp4XrdoX-Lfw09_1_IPNJe_nTuTrbxmL-EwHYIY5UYvQN1fcuX0yN5LmIhB5DROXxJ5ab55v-sd8E3hZlQUOoGr1YEGDAIq2YFx0U9pmY3KsjcrBC5_d5OFxTfemCMeeW9-VVQg9V66hvo8/w400-h400/unnamed%20(4).webp",
+      "description": "Uptodown stands as a unique and versatile app platform that brings a plethora of benefits to both casual users and tech enthusiasts alike",
+      "link": "https://assetdigitalguide.blogspot.com/p/unlocking-benefits-of-uptodown.html"
+    },
+	{
+      "id": 4,
+      "name_category": "Info",
+      "title": "Step-by-Step Guide to Download and Install",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3l_kU5ZA109URvjI7TrHyGEaoXP7Xm4gs8z8a06hlBAFQHp4XrdoX-Lfw09_1_IPNJe_nTuTrbxmL-EwHYIY5UYvQN1fcuX0yN5LmIhB5DROXxJ5ab55v-sd8E3hZlQUOoGr1YEGDAIq2YFx0U9pmY3KsjcrBC5_d5OFxTfemCMeeW9-VVQg9V66hvo8/w400-h400/unnamed%20(4).webp",
+      "description": "Uptodown offers a world of apps waiting to be explored and downloaded onto your device",
+      "link": "https://assetdigitalguide.blogspot.com/p/step-by-step-guide-to-download-and.html"
+    },
+	{
+      "id": 5,
+      "name_category": "Info",
+      "title": "Exploring the Pros and Cons of Uptodown",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3l_kU5ZA109URvjI7TrHyGEaoXP7Xm4gs8z8a06hlBAFQHp4XrdoX-Lfw09_1_IPNJe_nTuTrbxmL-EwHYIY5UYvQN1fcuX0yN5LmIhB5DROXxJ5ab55v-sd8E3hZlQUOoGr1YEGDAIq2YFx0U9pmY3KsjcrBC5_d5OFxTfemCMeeW9-VVQg9V66hvo8/w400-h400/unnamed%20(4).webp",
+      "description": "Uptodown, with its wide range of apps and user-driven approach, has captured the attention of many seeking a unique app discovery journey",
+      "link": "https://assetdigitalguide.blogspot.com/p/pros-and-cons-of-uptodown.html"
+    },
+	{
+      "id": 6,
+      "name_category": "Info",
+      "title": "Is Uptodown Safe?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3l_kU5ZA109URvjI7TrHyGEaoXP7Xm4gs8z8a06hlBAFQHp4XrdoX-Lfw09_1_IPNJe_nTuTrbxmL-EwHYIY5UYvQN1fcuX0yN5LmIhB5DROXxJ5ab55v-sd8E3hZlQUOoGr1YEGDAIq2YFx0U9pmY3KsjcrBC5_d5OFxTfemCMeeW9-VVQg9V66hvo8/w400-h400/unnamed%20(4).webp",
+      "description": "In the vast realm of app stores, safety is a top concern for users looking to download applications with peace of mind",
+      "link": "https://assetdigitalguide.blogspot.com/p/is-uptodown-safe-navigating-security.html"
+    },
+	{
+      "id": 7,
+      "name_category": "Info",
+      "title": "Understanding the Legality of Uptodown",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3l_kU5ZA109URvjI7TrHyGEaoXP7Xm4gs8z8a06hlBAFQHp4XrdoX-Lfw09_1_IPNJe_nTuTrbxmL-EwHYIY5UYvQN1fcuX0yN5LmIhB5DROXxJ5ab55v-sd8E3hZlQUOoGr1YEGDAIq2YFx0U9pmY3KsjcrBC5_d5OFxTfemCMeeW9-VVQg9V66hvo8/w400-h400/unnamed%20(4).webp",
+      "description": "In the digital landscape where app stores abound, concerns about legality and authenticity often arise.",
+      "link": "https://assetdigitalguide.blogspot.com/p/understanding-legality-of-uptodown.html"
+    },
+	{
+      "id": 8,
+      "name_category": "Info",
+      "title": " Is Uptodown a Virus?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3l_kU5ZA109URvjI7TrHyGEaoXP7Xm4gs8z8a06hlBAFQHp4XrdoX-Lfw09_1_IPNJe_nTuTrbxmL-EwHYIY5UYvQN1fcuX0yN5LmIhB5DROXxJ5ab55v-sd8E3hZlQUOoGr1YEGDAIq2YFx0U9pmY3KsjcrBC5_d5OFxTfemCMeeW9-VVQg9V66hvo8/w400-h400/unnamed%20(4).webp",
+      "description": "In the vast landscape of the digital world, rumors and misconceptions can spread like wildfire",
+      "link": "https://assetdigitalguide.blogspot.com/p/is-uptodown-virus.html"
+    },
+	{
+      "id": 9,
+      "name_category": "Info",
+      "title": "Is Uptodown Only Available for Android?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3l_kU5ZA109URvjI7TrHyGEaoXP7Xm4gs8z8a06hlBAFQHp4XrdoX-Lfw09_1_IPNJe_nTuTrbxmL-EwHYIY5UYvQN1fcuX0yN5LmIhB5DROXxJ5ab55v-sd8E3hZlQUOoGr1YEGDAIq2YFx0U9pmY3KsjcrBC5_d5OFxTfemCMeeW9-VVQg9V66hvo8/w400-h400/unnamed%20(4).webp",
+      "description": "In the dynamic world of app distribution, questions about compatibility and availability often arise",
+      "link": "https://assetdigitalguide.blogspot.com/p/is-uptodown-only-available-for-android.html"
+    },
+	{
+      "id": 10,
+      "name_category": "Info",
+      "title": "Exploring Notable Alternatives to Uptodown App Store",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3l_kU5ZA109URvjI7TrHyGEaoXP7Xm4gs8z8a06hlBAFQHp4XrdoX-Lfw09_1_IPNJe_nTuTrbxmL-EwHYIY5UYvQN1fcuX0yN5LmIhB5DROXxJ5ab55v-sd8E3hZlQUOoGr1YEGDAIq2YFx0U9pmY3KsjcrBC5_d5OFxTfemCMeeW9-VVQg9V66hvo8/w400-h400/unnamed%20(4).webp",
+      "description": "As the digital landscape expands, app enthusiasts are presented with a diverse range of app store alternatives that offer unique features and experiences.",
+      "link": "https://assetdigitalguide.blogspot.com/p/exploring-notable-alternatives-to.html"
+    },
+	{
+      "id": 11,
+      "name_category": "Info",
+      "title": "Exploring the App Diversity on Uptodown",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3l_kU5ZA109URvjI7TrHyGEaoXP7Xm4gs8z8a06hlBAFQHp4XrdoX-Lfw09_1_IPNJe_nTuTrbxmL-EwHYIY5UYvQN1fcuX0yN5LmIhB5DROXxJ5ab55v-sd8E3hZlQUOoGr1YEGDAIq2YFx0U9pmY3KsjcrBC5_d5OFxTfemCMeeW9-VVQg9V66hvo8/w400-h400/unnamed%20(4).webp",
+      "description": "Uptodown, renowned for its expansive app collection, opens up a world of possibilities for users seeking a diverse range of applications to enhance their digital experiences",
+      "link": "https://assetdigitalguide.blogspot.com/p/exploring-app-diversity-on-uptodown.html"
+    },
+	{
+      "id": 12,
+      "name_category": "Info",
+      "title": "Exploring the Move to Uptodown: Factors to Consider",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3l_kU5ZA109URvjI7TrHyGEaoXP7Xm4gs8z8a06hlBAFQHp4XrdoX-Lfw09_1_IPNJe_nTuTrbxmL-EwHYIY5UYvQN1fcuX0yN5LmIhB5DROXxJ5ab55v-sd8E3hZlQUOoGr1YEGDAIq2YFx0U9pmY3KsjcrBC5_d5OFxTfemCMeeW9-VVQg9V66hvo8/w400-h400/unnamed%20(4).webp",
+      "description": "In a world filled with app stores and platforms, the decision to switch to a new one can be both exciting and daunting",
+      "link": "https://assetdigitalguide.blogspot.com/p/exploring-move-to-uptodown-factors-to.html"
+    },
+	{
+      "id": 13,
+      "name_category": "Info",
+      "title": "Uptodown FAQ: Answers to Common Questions",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3l_kU5ZA109URvjI7TrHyGEaoXP7Xm4gs8z8a06hlBAFQHp4XrdoX-Lfw09_1_IPNJe_nTuTrbxmL-EwHYIY5UYvQN1fcuX0yN5LmIhB5DROXxJ5ab55v-sd8E3hZlQUOoGr1YEGDAIq2YFx0U9pmY3KsjcrBC5_d5OFxTfemCMeeW9-VVQg9V66hvo8/w400-h400/unnamed%20(4).webp",
+      "description": "To help you navigate this app distribution platform, here are some frequently asked questions and their answers.",
+      "link": "https://assetdigitalguide.blogspot.com/p/uptodown-faq-answers-to-common-questions.html"
+    },
+	{
+      "id": 14,
+      "name_category": "Info",
+      "title": "Conclusion: Uptodown",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3l_kU5ZA109URvjI7TrHyGEaoXP7Xm4gs8z8a06hlBAFQHp4XrdoX-Lfw09_1_IPNJe_nTuTrbxmL-EwHYIY5UYvQN1fcuX0yN5LmIhB5DROXxJ5ab55v-sd8E3hZlQUOoGr1YEGDAIq2YFx0U9pmY3KsjcrBC5_d5OFxTfemCMeeW9-VVQg9V66hvo8/w400-h400/unnamed%20(4).webp",
+      "description": "In the realm of app distribution, Uptodown shines as a versatile platform that caters to the diverse needs and preferences of users",
+      "link": "https://assetdigitalguide.blogspot.com/p/conclusion_22.html"
     }
   ]
 }
