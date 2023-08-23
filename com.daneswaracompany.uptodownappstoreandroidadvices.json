@@ -10,9 +10,8 @@
 
     "ad_network": [
       {
-        "name": "admob",
+        "name": "off",
         "value": 1,
-		"min_time": 120,
 
         "appId_appKey_publisherId_gameId": "-",
         "banner": "-",
