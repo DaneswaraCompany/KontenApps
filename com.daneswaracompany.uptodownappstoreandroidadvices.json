@@ -4,14 +4,15 @@
       "interval_interstitial": 3,
       "interstitial_type" : "lap",
       "switch_ads_type": "only_banner",
-      "make_app_crash_when_app_not_live_at_play_store": false,
-      "make_app_under_maintenance": false
+      "make_app_crash_when_app_not_live_at_play_store": true,
+      "make_app_under_maintenance": true
     },
 
     "ad_network": [
       {
-        "name": "off",
+        "name": "admob",
         "value": 1,
+		"min_time": 120,
 
         "appId_appKey_publisherId_gameId": "-",
         "banner": "-",
@@ -76,113 +77,113 @@
     {
       "id": 1,
       "name_category": "Info",
-      "title": "Introduction to Uptodown: Exploring a World of Apps",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3l_kU5ZA109URvjI7TrHyGEaoXP7Xm4gs8z8a06hlBAFQHp4XrdoX-Lfw09_1_IPNJe_nTuTrbxmL-EwHYIY5UYvQN1fcuX0yN5LmIhB5DROXxJ5ab55v-sd8E3hZlQUOoGr1YEGDAIq2YFx0U9pmY3KsjcrBC5_d5OFxTfemCMeeW9-VVQg9V66hvo8/w400-h400/unnamed%20(4).webp",
-      "description": "In a digital age where applications shape the way we work, play, and communicate, finding the right apps is paramount",
+      "title": "Introducing Kreado AI: A Cutting-Edge Platform for Rapid High-Quality Content Creation",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHF9Q9auMLpOex-vxE9l6eljGE6ESHiKZELg-kQHdjnNCVMZXkbq3SLZ7Vy1qQG3rKN7L6yhhSvoaaqOpFbsFLmGMyRWXBhTtQAYoCo-iNCOkEez9r_Zai8jRUjlC-AOIYxClWelxiUQRKJxQb34hqFN2H2au0Sn9gdsvsPIOilwZsAE8BElSxWpiiWk0/w400-h400/icon.png",
+      "description": "Enter Kreado AI, a revolutionary platform that blends the power of artificial intelligence with creative ingenuity, enabling users to produce compelling content efficiently and seamlessly.",
       "link": "https://assetdigitalguide.blogspot.com/p/introduction-to-uptodown-exploring.html"
     },
 	{
       "id": 2,
       "name_category": "Info",
-      "title": "Exploring the Key Features of Uptodown",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3l_kU5ZA109URvjI7TrHyGEaoXP7Xm4gs8z8a06hlBAFQHp4XrdoX-Lfw09_1_IPNJe_nTuTrbxmL-EwHYIY5UYvQN1fcuX0yN5LmIhB5DROXxJ5ab55v-sd8E3hZlQUOoGr1YEGDAIq2YFx0U9pmY3KsjcrBC5_d5OFxTfemCMeeW9-VVQg9V66hvo8/w400-h400/unnamed%20(4).webp",
-      "description": "Uptodown, known for its diverse app offerings, introduces users to a plethora of features that set it apart from the traditional app store experience",
+      "title": "What is Kreado AI: The Revolutionary AI-Powered Video Creation Platform",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHF9Q9auMLpOex-vxE9l6eljGE6ESHiKZELg-kQHdjnNCVMZXkbq3SLZ7Vy1qQG3rKN7L6yhhSvoaaqOpFbsFLmGMyRWXBhTtQAYoCo-iNCOkEez9r_Zai8jRUjlC-AOIYxClWelxiUQRKJxQb34hqFN2H2au0Sn9gdsvsPIOilwZsAE8BElSxWpiiWk0/w400-h400/icon.png",
+      "description": "The core features and capabilities of Kreado AI, shedding light on how it is reshaping content creation through the power of AI",
       "link": "https://assetdigitalguide.blogspot.com/p/exploring-key-features-of-uptodown.html"
     },
 	{
       "id": 3,
       "name_category": "Info",
-      "title": "Unlocking the Benefits of Uptodown",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3l_kU5ZA109URvjI7TrHyGEaoXP7Xm4gs8z8a06hlBAFQHp4XrdoX-Lfw09_1_IPNJe_nTuTrbxmL-EwHYIY5UYvQN1fcuX0yN5LmIhB5DROXxJ5ab55v-sd8E3hZlQUOoGr1YEGDAIq2YFx0U9pmY3KsjcrBC5_d5OFxTfemCMeeW9-VVQg9V66hvo8/w400-h400/unnamed%20(4).webp",
-      "description": "Uptodown stands as a unique and versatile app platform that brings a plethora of benefits to both casual users and tech enthusiasts alike",
+      "title": "How to Use Kreado AI: Unleash Your Creative Potential with Ease",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHF9Q9auMLpOex-vxE9l6eljGE6ESHiKZELg-kQHdjnNCVMZXkbq3SLZ7Vy1qQG3rKN7L6yhhSvoaaqOpFbsFLmGMyRWXBhTtQAYoCo-iNCOkEez9r_Zai8jRUjlC-AOIYxClWelxiUQRKJxQb34hqFN2H2au0Sn9gdsvsPIOilwZsAE8BElSxWpiiWk0/w400-h400/icon.png",
+      "description": "This article provides a step-by-step guide on how to harness the capabilities of Kreado AI and embark on a journey of effortless content creation.",
       "link": "https://assetdigitalguide.blogspot.com/p/unlocking-benefits-of-uptodown.html"
     },
 	{
       "id": 4,
       "name_category": "Info",
-      "title": "Step-by-Step Guide to Download and Install",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3l_kU5ZA109URvjI7TrHyGEaoXP7Xm4gs8z8a06hlBAFQHp4XrdoX-Lfw09_1_IPNJe_nTuTrbxmL-EwHYIY5UYvQN1fcuX0yN5LmIhB5DROXxJ5ab55v-sd8E3hZlQUOoGr1YEGDAIq2YFx0U9pmY3KsjcrBC5_d5OFxTfemCMeeW9-VVQg9V66hvo8/w400-h400/unnamed%20(4).webp",
-      "description": "Uptodown offers a world of apps waiting to be explored and downloaded onto your device",
+      "title": "How Does Kreado AI Work: Unveiling the Magic Behind Effortless Content Creation",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHF9Q9auMLpOex-vxE9l6eljGE6ESHiKZELg-kQHdjnNCVMZXkbq3SLZ7Vy1qQG3rKN7L6yhhSvoaaqOpFbsFLmGMyRWXBhTtQAYoCo-iNCOkEez9r_Zai8jRUjlC-AOIYxClWelxiUQRKJxQb34hqFN2H2au0Sn9gdsvsPIOilwZsAE8BElSxWpiiWk0/w400-h400/icon.png",
+      "description": "This article delves into the inner workings of Kreado AI, shedding light on the innovative technology that powers its seamless content creation capabilities.",
       "link": "https://assetdigitalguide.blogspot.com/p/step-by-step-guide-to-download-and.html"
     },
 	{
       "id": 5,
       "name_category": "Info",
-      "title": "Exploring the Pros and Cons of Uptodown",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3l_kU5ZA109URvjI7TrHyGEaoXP7Xm4gs8z8a06hlBAFQHp4XrdoX-Lfw09_1_IPNJe_nTuTrbxmL-EwHYIY5UYvQN1fcuX0yN5LmIhB5DROXxJ5ab55v-sd8E3hZlQUOoGr1YEGDAIq2YFx0U9pmY3KsjcrBC5_d5OFxTfemCMeeW9-VVQg9V66hvo8/w400-h400/unnamed%20(4).webp",
-      "description": "Uptodown, with its wide range of apps and user-driven approach, has captured the attention of many seeking a unique app discovery journey",
+      "title": "Exploring Kreado AI Features: Elevate Your Content Creation Experience",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHF9Q9auMLpOex-vxE9l6eljGE6ESHiKZELg-kQHdjnNCVMZXkbq3SLZ7Vy1qQG3rKN7L6yhhSvoaaqOpFbsFLmGMyRWXBhTtQAYoCo-iNCOkEez9r_Zai8jRUjlC-AOIYxClWelxiUQRKJxQb34hqFN2H2au0Sn9gdsvsPIOilwZsAE8BElSxWpiiWk0/w400-h400/icon.png",
+      "description": "This article takes an in-depth look at the features that set Kreado AI apart and how they contribute to creating high-quality, engaging content",
       "link": "https://assetdigitalguide.blogspot.com/p/pros-and-cons-of-uptodown.html"
     },
 	{
       "id": 6,
       "name_category": "Info",
-      "title": "Is Uptodown Safe?",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3l_kU5ZA109URvjI7TrHyGEaoXP7Xm4gs8z8a06hlBAFQHp4XrdoX-Lfw09_1_IPNJe_nTuTrbxmL-EwHYIY5UYvQN1fcuX0yN5LmIhB5DROXxJ5ab55v-sd8E3hZlQUOoGr1YEGDAIq2YFx0U9pmY3KsjcrBC5_d5OFxTfemCMeeW9-VVQg9V66hvo8/w400-h400/unnamed%20(4).webp",
-      "description": "In the vast realm of app stores, safety is a top concern for users looking to download applications with peace of mind",
+      "title": "Navigating Kreado AI Pricing: Choose the Plan that Fits Your Creative Journey",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHF9Q9auMLpOex-vxE9l6eljGE6ESHiKZELg-kQHdjnNCVMZXkbq3SLZ7Vy1qQG3rKN7L6yhhSvoaaqOpFbsFLmGMyRWXBhTtQAYoCo-iNCOkEez9r_Zai8jRUjlC-AOIYxClWelxiUQRKJxQb34hqFN2H2au0Sn9gdsvsPIOilwZsAE8BElSxWpiiWk0/w400-h400/icon.png",
+      "description": "This article provides an in-depth exploration of Kreado AI's pricing structure and the features that each plan offers",
       "link": "https://assetdigitalguide.blogspot.com/p/is-uptodown-safe-navigating-security.html"
     },
 	{
       "id": 7,
       "name_category": "Info",
-      "title": "Understanding the Legality of Uptodown",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3l_kU5ZA109URvjI7TrHyGEaoXP7Xm4gs8z8a06hlBAFQHp4XrdoX-Lfw09_1_IPNJe_nTuTrbxmL-EwHYIY5UYvQN1fcuX0yN5LmIhB5DROXxJ5ab55v-sd8E3hZlQUOoGr1YEGDAIq2YFx0U9pmY3KsjcrBC5_d5OFxTfemCMeeW9-VVQg9V66hvo8/w400-h400/unnamed%20(4).webp",
-      "description": "In the digital landscape where app stores abound, concerns about legality and authenticity often arise.",
+      "title": "Is Kreado AI Safe? Ensuring Security and Privacy in AI-Powered Content Creation",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHF9Q9auMLpOex-vxE9l6eljGE6ESHiKZELg-kQHdjnNCVMZXkbq3SLZ7Vy1qQG3rKN7L6yhhSvoaaqOpFbsFLmGMyRWXBhTtQAYoCo-iNCOkEez9r_Zai8jRUjlC-AOIYxClWelxiUQRKJxQb34hqFN2H2au0Sn9gdsvsPIOilwZsAE8BElSxWpiiWk0/w400-h400/icon.png",
+      "description": "In an era where data security and privacy are paramount, entrusting a platform with your creative endeavors requires a thorough understanding of its safety measures",
       "link": "https://assetdigitalguide.blogspot.com/p/understanding-legality-of-uptodown.html"
     },
 	{
       "id": 8,
       "name_category": "Info",
-      "title": " Is Uptodown a Virus?",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3l_kU5ZA109URvjI7TrHyGEaoXP7Xm4gs8z8a06hlBAFQHp4XrdoX-Lfw09_1_IPNJe_nTuTrbxmL-EwHYIY5UYvQN1fcuX0yN5LmIhB5DROXxJ5ab55v-sd8E3hZlQUOoGr1YEGDAIq2YFx0U9pmY3KsjcrBC5_d5OFxTfemCMeeW9-VVQg9V66hvo8/w400-h400/unnamed%20(4).webp",
-      "description": "In the vast landscape of the digital world, rumors and misconceptions can spread like wildfire",
+      "title": "Kreado AI Pros and Cons: Weighing the Benefits and Considerations",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHF9Q9auMLpOex-vxE9l6eljGE6ESHiKZELg-kQHdjnNCVMZXkbq3SLZ7Vy1qQG3rKN7L6yhhSvoaaqOpFbsFLmGMyRWXBhTtQAYoCo-iNCOkEez9r_Zai8jRUjlC-AOIYxClWelxiUQRKJxQb34hqFN2H2au0Sn9gdsvsPIOilwZsAE8BElSxWpiiWk0/w400-h400/icon.png",
+      "description": "In the world of content creation, innovation often brings a blend of exciting possibilities and careful considerations",
       "link": "https://assetdigitalguide.blogspot.com/p/is-uptodown-virus.html"
     },
 	{
       "id": 9,
       "name_category": "Info",
-      "title": "Is Uptodown Only Available for Android?",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3l_kU5ZA109URvjI7TrHyGEaoXP7Xm4gs8z8a06hlBAFQHp4XrdoX-Lfw09_1_IPNJe_nTuTrbxmL-EwHYIY5UYvQN1fcuX0yN5LmIhB5DROXxJ5ab55v-sd8E3hZlQUOoGr1YEGDAIq2YFx0U9pmY3KsjcrBC5_d5OFxTfemCMeeW9-VVQg9V66hvo8/w400-h400/unnamed%20(4).webp",
-      "description": "In the dynamic world of app distribution, questions about compatibility and availability often arise",
+      "title": "Exploring Kreado AI Alternatives: Diverse Platforms for Dynamic Content Creation",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHF9Q9auMLpOex-vxE9l6eljGE6ESHiKZELg-kQHdjnNCVMZXkbq3SLZ7Vy1qQG3rKN7L6yhhSvoaaqOpFbsFLmGMyRWXBhTtQAYoCo-iNCOkEez9r_Zai8jRUjlC-AOIYxClWelxiUQRKJxQb34hqFN2H2au0Sn9gdsvsPIOilwZsAE8BElSxWpiiWk0/w400-h400/icon.png",
+      "description": "In the realm of content creation, diversity is key to finding the right fit for your creative needs",
       "link": "https://assetdigitalguide.blogspot.com/p/is-uptodown-only-available-for-android.html"
     },
 	{
       "id": 10,
       "name_category": "Info",
-      "title": "Exploring Notable Alternatives to Uptodown App Store",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3l_kU5ZA109URvjI7TrHyGEaoXP7Xm4gs8z8a06hlBAFQHp4XrdoX-Lfw09_1_IPNJe_nTuTrbxmL-EwHYIY5UYvQN1fcuX0yN5LmIhB5DROXxJ5ab55v-sd8E3hZlQUOoGr1YEGDAIq2YFx0U9pmY3KsjcrBC5_d5OFxTfemCMeeW9-VVQg9V66hvo8/w400-h400/unnamed%20(4).webp",
-      "description": "As the digital landscape expands, app enthusiasts are presented with a diverse range of app store alternatives that offer unique features and experiences.",
+      "title": "Leveraging Kreado AI for Marketing Purposes: Unlocking the Power of Engaging Content",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHF9Q9auMLpOex-vxE9l6eljGE6ESHiKZELg-kQHdjnNCVMZXkbq3SLZ7Vy1qQG3rKN7L6yhhSvoaaqOpFbsFLmGMyRWXBhTtQAYoCo-iNCOkEez9r_Zai8jRUjlC-AOIYxClWelxiUQRKJxQb34hqFN2H2au0Sn9gdsvsPIOilwZsAE8BElSxWpiiWk0/w400-h400/icon.png",
+      "description": "In today's digitally driven world, effective marketing hinges on capturing and retaining the attention of your target audience",
       "link": "https://assetdigitalguide.blogspot.com/p/exploring-notable-alternatives-to.html"
     },
 	{
       "id": 11,
       "name_category": "Info",
-      "title": "Exploring the App Diversity on Uptodown",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3l_kU5ZA109URvjI7TrHyGEaoXP7Xm4gs8z8a06hlBAFQHp4XrdoX-Lfw09_1_IPNJe_nTuTrbxmL-EwHYIY5UYvQN1fcuX0yN5LmIhB5DROXxJ5ab55v-sd8E3hZlQUOoGr1YEGDAIq2YFx0U9pmY3KsjcrBC5_d5OFxTfemCMeeW9-VVQg9V66hvo8/w400-h400/unnamed%20(4).webp",
-      "description": "Uptodown, renowned for its expansive app collection, opens up a world of possibilities for users seeking a diverse range of applications to enhance their digital experiences",
+      "title": "Is Kreado AI Legal? Navigating the Legality of AI-Powered Content Creation",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHF9Q9auMLpOex-vxE9l6eljGE6ESHiKZELg-kQHdjnNCVMZXkbq3SLZ7Vy1qQG3rKN7L6yhhSvoaaqOpFbsFLmGMyRWXBhTtQAYoCo-iNCOkEez9r_Zai8jRUjlC-AOIYxClWelxiUQRKJxQb34hqFN2H2au0Sn9gdsvsPIOilwZsAE8BElSxWpiiWk0/w400-h400/icon.png",
+      "description": "As technology evolves and AI-powered platforms become increasingly prevalent, questions about their legality and ethical considerations naturally arise",
       "link": "https://assetdigitalguide.blogspot.com/p/exploring-app-diversity-on-uptodown.html"
     },
 	{
       "id": 12,
       "name_category": "Info",
-      "title": "Exploring the Move to Uptodown: Factors to Consider",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3l_kU5ZA109URvjI7TrHyGEaoXP7Xm4gs8z8a06hlBAFQHp4XrdoX-Lfw09_1_IPNJe_nTuTrbxmL-EwHYIY5UYvQN1fcuX0yN5LmIhB5DROXxJ5ab55v-sd8E3hZlQUOoGr1YEGDAIq2YFx0U9pmY3KsjcrBC5_d5OFxTfemCMeeW9-VVQg9V66hvo8/w400-h400/unnamed%20(4).webp",
-      "description": "In a world filled with app stores and platforms, the decision to switch to a new one can be both exciting and daunting",
+      "title": "Why You Should Choose Kreado AI: Unleashing the Power of AI-Powered Content Creation",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHF9Q9auMLpOex-vxE9l6eljGE6ESHiKZELg-kQHdjnNCVMZXkbq3SLZ7Vy1qQG3rKN7L6yhhSvoaaqOpFbsFLmGMyRWXBhTtQAYoCo-iNCOkEez9r_Zai8jRUjlC-AOIYxClWelxiUQRKJxQb34hqFN2H2au0Sn9gdsvsPIOilwZsAE8BElSxWpiiWk0/w400-h400/icon.png",
+      "description": "In a digital landscape characterized by rapid information consumption, the ability to capture and retain your audience's attention is paramount",
       "link": "https://assetdigitalguide.blogspot.com/p/exploring-move-to-uptodown-factors-to.html"
     },
 	{
       "id": 13,
       "name_category": "Info",
-      "title": "Uptodown FAQ: Answers to Common Questions",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3l_kU5ZA109URvjI7TrHyGEaoXP7Xm4gs8z8a06hlBAFQHp4XrdoX-Lfw09_1_IPNJe_nTuTrbxmL-EwHYIY5UYvQN1fcuX0yN5LmIhB5DROXxJ5ab55v-sd8E3hZlQUOoGr1YEGDAIq2YFx0U9pmY3KsjcrBC5_d5OFxTfemCMeeW9-VVQg9V66hvo8/w400-h400/unnamed%20(4).webp",
-      "description": "To help you navigate this app distribution platform, here are some frequently asked questions and their answers.",
+      "title": "Kreado AI FAQs: Addressing Common Questions About the Innovative Content Creation Platform",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHF9Q9auMLpOex-vxE9l6eljGE6ESHiKZELg-kQHdjnNCVMZXkbq3SLZ7Vy1qQG3rKN7L6yhhSvoaaqOpFbsFLmGMyRWXBhTtQAYoCo-iNCOkEez9r_Zai8jRUjlC-AOIYxClWelxiUQRKJxQb34hqFN2H2au0Sn9gdsvsPIOilwZsAE8BElSxWpiiWk0/w400-h400/icon.png",
+      "description": "As the digital landscape evolves, innovative tools like Kreado AI are at the forefront of transforming the way content is created and shared.",
       "link": "https://assetdigitalguide.blogspot.com/p/uptodown-faq-answers-to-common-questions.html"
     },
 	{
       "id": 14,
       "name_category": "Info",
-      "title": "Conclusion: Uptodown",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3l_kU5ZA109URvjI7TrHyGEaoXP7Xm4gs8z8a06hlBAFQHp4XrdoX-Lfw09_1_IPNJe_nTuTrbxmL-EwHYIY5UYvQN1fcuX0yN5LmIhB5DROXxJ5ab55v-sd8E3hZlQUOoGr1YEGDAIq2YFx0U9pmY3KsjcrBC5_d5OFxTfemCMeeW9-VVQg9V66hvo8/w400-h400/unnamed%20(4).webp",
-      "description": "In the realm of app distribution, Uptodown shines as a versatile platform that caters to the diverse needs and preferences of users",
+      "title": "Conclusion: Embrace the Future of Content Creation with Kreado AI",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHF9Q9auMLpOex-vxE9l6eljGE6ESHiKZELg-kQHdjnNCVMZXkbq3SLZ7Vy1qQG3rKN7L6yhhSvoaaqOpFbsFLmGMyRWXBhTtQAYoCo-iNCOkEez9r_Zai8jRUjlC-AOIYxClWelxiUQRKJxQb34hqFN2H2au0Sn9gdsvsPIOilwZsAE8BElSxWpiiWk0/w400-h400/icon.png",
+      "description": "n a fast-paced digital era where content is king, the tools you choose to shape your creations can make all the difference",
       "link": "https://assetdigitalguide.blogspot.com/p/conclusion_22.html"
     }
   ]
