@@ -4,15 +4,14 @@
       "interval_interstitial": 3,
       "interstitial_type" : "lap",
       "switch_ads_type": "only_banner",
-      "make_app_crash_when_app_not_live_at_play_store": true,
+      "make_app_crash_when_app_not_live_at_play_store": false,
       "make_app_under_maintenance": false
     },
 
     "ad_network": [
       {
-        "name": "admob",
+        "name": "off",
         "value": 1,
-		"min_time": 120,
 
         "appId_appKey_publisherId_gameId": "-",
         "banner": "-",
@@ -76,11 +75,43 @@
   "Data": [
     {
       "id": 1,
-      "name_category": "Under Maintenance",
-      "title": "This Application is Under Construction",
-      "image": "https://cdn.pixabay.com/photo/2017/06/20/08/12/maintenance-2422171_960_720.jpg",
-      "description": "We would like to inform you that the application is currently under maintenance",
-      "link": "<p>We would like to inform you that the application is currently undergoing maintenance and improvements. We apologize for any inconvenience this may cause and appreciate your patience as we work to enhance your experience.</p>"
+      "name_category": "Guide",
+      "title": "Introducing 2short.ai",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjplFDKciyQVUaaB8HRCDm_i9OdkoGp9jz9BRhF_ZpHS7SXmEZHwiWeuyyjv85XD9IruUm7MVjCnMBma_o0m-e1RG_RxOiq-Z17-atR7rVksiH7awXzI7yugADDgjhXzQ-laWjcrsgEdm2iCm40Vs_JnN-Xm9BHIISj0LYIXAwrk77Z_eaMHPY1Gq433NM/w400-h194/download%20(3).png",
+      "description": "Revolutionizing Short-Form Content Creation in the Digital Era",
+      "link": "https://assetdigitalguide.blogspot.com/p/introducing-2shortai.html"
+    },
+	{
+      "id": 2,
+      "name_category": "Guide",
+      "title": "Exploring the Pinnacle Features of 2short.ai",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjplFDKciyQVUaaB8HRCDm_i9OdkoGp9jz9BRhF_ZpHS7SXmEZHwiWeuyyjv85XD9IruUm7MVjCnMBma_o0m-e1RG_RxOiq-Z17-atR7rVksiH7awXzI7yugADDgjhXzQ-laWjcrsgEdm2iCm40Vs_JnN-Xm9BHIISj0LYIXAwrk77Z_eaMHPY1Gq433NM/w400-h194/download%20(3).png",
+      "description": "Elevating Short-Form Content Creation",
+      "link": "https://assetdigitalguide.blogspot.com/p/exploring-pinnacle-features-of-2shortai.html"
+    },
+	{
+      "id": 3,
+      "name_category": "Guide",
+      "title": "Simple Guide to Effective Usage",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjplFDKciyQVUaaB8HRCDm_i9OdkoGp9jz9BRhF_ZpHS7SXmEZHwiWeuyyjv85XD9IruUm7MVjCnMBma_o0m-e1RG_RxOiq-Z17-atR7rVksiH7awXzI7yugADDgjhXzQ-laWjcrsgEdm2iCm40Vs_JnN-Xm9BHIISj0LYIXAwrk77Z_eaMHPY1Gq433NM/w400-h194/download%20(3).png",
+      "description": "Harnessing the Power of 2short.ai",
+      "link": "https://assetdigitalguide.blogspot.com/p/simple-guide-to-effective-usage.html"
+    },
+	{
+      "id": 4,
+      "name_category": "Guide",
+      "title": "Exploring the Cost Structure of 2short.ai",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjplFDKciyQVUaaB8HRCDm_i9OdkoGp9jz9BRhF_ZpHS7SXmEZHwiWeuyyjv85XD9IruUm7MVjCnMBma_o0m-e1RG_RxOiq-Z17-atR7rVksiH7awXzI7yugADDgjhXzQ-laWjcrsgEdm2iCm40Vs_JnN-Xm9BHIISj0LYIXAwrk77Z_eaMHPY1Gq433NM/w400-h194/download%20(3).png",
+      "description": "Let's delve into the offerings of 2short.ai's pricing plans to understand the options available",
+      "link": "https://assetdigitalguide.blogspot.com/p/exploring-cost-structure-of-2shortai.html"
+    },
+	{
+      "id": 5,
+      "name_category": "Guide",
+      "title": "Video Types Supported by 2short.ai",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjplFDKciyQVUaaB8HRCDm_i9OdkoGp9jz9BRhF_ZpHS7SXmEZHwiWeuyyjv85XD9IruUm7MVjCnMBma_o0m-e1RG_RxOiq-Z17-atR7rVksiH7awXzI7yugADDgjhXzQ-laWjcrsgEdm2iCm40Vs_JnN-Xm9BHIISj0LYIXAwrk77Z_eaMHPY1Gq433NM/w400-h194/download%20(3).png",
+      "description": "What types of videos does 2short.ai truly support?",
+      "link": "https://assetdigitalguide.blogspot.com/p/video-types-supported-by-2shortai.html"
     }
   ]
 }
