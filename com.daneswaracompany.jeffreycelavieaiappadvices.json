@@ -9,14 +9,13 @@
 		},
 
 		"ad_network": [{
-			"name": "off",
+			"name": "fan",
 			"value": 1,
-			"min_time": 120,
 
-			"appId_appKey_publisherId_gameId": "-",
-			"banner": "-",
+			"appId_appKey_publisherId_gameId": "2066927580323336",
+			"banner": "2066927580323336_2066936416989119",
 			"mrec": "off",
-			"inter": "-",
+			"inter": "2066927580323336_2066936446989116",
 			"native_ad": "-",
 			"open_ad": "off",
 			"splash_ad": false
@@ -29,7 +28,7 @@
 		"recent_fragment_list_view_mode": "big",
 		"favorite_fragment_list_view_mode": "big",
 		"category_fragment_list_view_mode": "big",
-		"category_activity_list_view_mode": "big",
+		"category_activity_list_view_mode": "small",
 		"hide_short_desc_category_activity_list": false,
 		"item_interval_native_ad_list": 4,
 
