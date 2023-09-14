@@ -4,15 +4,15 @@
       "interval_interstitial": 3,
       "interstitial_type" : "lap",
       "switch_ads_type": "only_banner",
-      "make_app_crash_when_app_not_live_at_play_store": false,
+      "make_app_crash_when_app_not_live_at_play_store": true,
       "enable_activity_maintenance_with_ads": true
     },
 
     "ad_network": [
       {
-        "name": "off",
+        "name": "admob",
         "value": 1,
-	"min_time": 120,
+		"min_time": 120,
 
         "appId_appKey_publisherId_gameId": "-",
         "banner": "-",
@@ -76,99 +76,11 @@
   "Data": [
     {
       "id": 1,
-      "name_category": "Guide",
-      "title": "Introduction Claude AI",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAQLv6NgMVZ9QpufQOt9Hbq7guqxVDK4hOq99vw7bF9Xzhol4TVJUVOXSF4r53pVz_ElVVnYfgfkVAqJ4gVCai1Z4xSB3RRBAMiq99wWCuOVlnwlur53hpKag4a4OF70c7XqZGvX84ppUMSZWkIHjESDjKxbtO5EhhVxGeKksckP-ZauuVV7O1QPUy_zo/s1600/how-to-use-anthropic-claude-chatgpt-rival.webp",
-      "description": "To use Claude effectively, you have two options: Slack and Nat.dev",
-      "link": "https://assetdigitalguide.blogspot.com/p/introduction-claude-ai.html"
-    },
-	{
-      "id": 2,
-      "name_category": "Guide",
-      "title": "Using Anthropic Claude with Slack",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAQLv6NgMVZ9QpufQOt9Hbq7guqxVDK4hOq99vw7bF9Xzhol4TVJUVOXSF4r53pVz_ElVVnYfgfkVAqJ4gVCai1Z4xSB3RRBAMiq99wWCuOVlnwlur53hpKag4a4OF70c7XqZGvX84ppUMSZWkIHjESDjKxbtO5EhhVxGeKksckP-ZauuVV7O1QPUy_zo/s1600/how-to-use-anthropic-claude-chatgpt-rival.webp",
-      "description": "Slack, a popular collaboration platform, allows users to interact with Claude seamlessly",
-      "link": "https://assetdigitalguide.blogspot.com/p/using-anthropic-claude-with-slack.html"
-    },
-	{
-      "id": 3,
-      "name_category": "Guide",
-      "title": "Using Anthropic Claude on Nat.dev",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAQLv6NgMVZ9QpufQOt9Hbq7guqxVDK4hOq99vw7bF9Xzhol4TVJUVOXSF4r53pVz_ElVVnYfgfkVAqJ4gVCai1Z4xSB3RRBAMiq99wWCuOVlnwlur53hpKag4a4OF70c7XqZGvX84ppUMSZWkIHjESDjKxbtO5EhhVxGeKksckP-ZauuVV7O1QPUy_zo/s1600/how-to-use-anthropic-claude-chatgpt-rival.webp",
-      "description": "Nat.dev, also known as OpenPlayground, offers access to various AI models, including Anthropic Claude",
-      "link": "https://assetdigitalguide.blogspot.com/p/using-anthropic-claude-on-natdev.html"
-    },
-	{
-      "id": 4,
-      "name_category": "Guide",
-      "title": "Accessing Claude: Slack vs. Nat.dev",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAQLv6NgMVZ9QpufQOt9Hbq7guqxVDK4hOq99vw7bF9Xzhol4TVJUVOXSF4r53pVz_ElVVnYfgfkVAqJ4gVCai1Z4xSB3RRBAMiq99wWCuOVlnwlur53hpKag4a4OF70c7XqZGvX84ppUMSZWkIHjESDjKxbtO5EhhVxGeKksckP-ZauuVV7O1QPUy_zo/s1600/how-to-use-anthropic-claude-chatgpt-rival.webp",
-      "description": "Anthropic Claude is now available through both Slack and Nat.dev",
-      "link": "https://assetdigitalguide.blogspot.com/p/accessing-claude-slack-vs-natdev.html"
-    },
-	{
-      "id": 5,
-      "name_category": "Guide",
-      "title": "Chat Interface: Engaging in Conversations with Claude",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAQLv6NgMVZ9QpufQOt9Hbq7guqxVDK4hOq99vw7bF9Xzhol4TVJUVOXSF4r53pVz_ElVVnYfgfkVAqJ4gVCai1Z4xSB3RRBAMiq99wWCuOVlnwlur53hpKag4a4OF70c7XqZGvX84ppUMSZWkIHjESDjKxbtO5EhhVxGeKksckP-ZauuVV7O1QPUy_zo/s1600/how-to-use-anthropic-claude-chatgpt-rival.webp",
-      "description": "In the world of AI assistants, Claude stands out with its user-friendly chat interface",
-      "link": "https://assetdigitalguide.blogspot.com/p/chat-interface-engaging-in.html"
-    },
-	{
-      "id": 6,
-      "name_category": "Guide",
-      "title": "API Integration: Seamless Integration with Your Applications",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAQLv6NgMVZ9QpufQOt9Hbq7guqxVDK4hOq99vw7bF9Xzhol4TVJUVOXSF4r53pVz_ElVVnYfgfkVAqJ4gVCai1Z4xSB3RRBAMiq99wWCuOVlnwlur53hpKag4a4OF70c7XqZGvX84ppUMSZWkIHjESDjKxbtO5EhhVxGeKksckP-ZauuVV7O1QPUy_zo/s1600/how-to-use-anthropic-claude-chatgpt-rival.webp",
-      "description": "Beyond the chat interface, Claude offers an API that developers can leverage to integrate this powerful AI assistant into their own applications and workflows.",
-      "link": "https://assetdigitalguide.blogspot.com/p/api-integration-seamless-integration.html"
-    },
-	{
-      "id": 7,
-      "name_category": "Guide",
-      "title": "Personality and Tone: Tailoring Claude to Match Your Brand Voice",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAQLv6NgMVZ9QpufQOt9Hbq7guqxVDK4hOq99vw7bF9Xzhol4TVJUVOXSF4r53pVz_ElVVnYfgfkVAqJ4gVCai1Z4xSB3RRBAMiq99wWCuOVlnwlur53hpKag4a4OF70c7XqZGvX84ppUMSZWkIHjESDjKxbtO5EhhVxGeKksckP-ZauuVV7O1QPUy_zo/s1600/how-to-use-anthropic-claude-chatgpt-rival.webp",
-      "description": "One of Claude’s distinguishing features is its ability to adapt its personality, tone, and behavior.",
-      "link": "https://assetdigitalguide.blogspot.com/p/personality-and-tone-tailoring-claude.html"
-    },
-	{
-      "id": 8,
-      "name_category": "Guide",
-      "title": "Language Capabilities: Beyond English Conversations",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAQLv6NgMVZ9QpufQOt9Hbq7guqxVDK4hOq99vw7bF9Xzhol4TVJUVOXSF4r53pVz_ElVVnYfgfkVAqJ4gVCai1Z4xSB3RRBAMiq99wWCuOVlnwlur53hpKag4a4OF70c7XqZGvX84ppUMSZWkIHjESDjKxbtO5EhhVxGeKksckP-ZauuVV7O1QPUy_zo/s1600/how-to-use-anthropic-claude-chatgpt-rival.webp",
-      "description": "While Claude primarily converses in English, it possesses the ability to respond to questions in other languages as well.",
-      "link": "https://assetdigitalguide.blogspot.com/p/language-capabilities-beyond-english.html"
-    },
-	{
-      "id": 9,
-      "name_category": "Guide",
-      "title": "Accessing Claude: Various Integration Options",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAQLv6NgMVZ9QpufQOt9Hbq7guqxVDK4hOq99vw7bF9Xzhol4TVJUVOXSF4r53pVz_ElVVnYfgfkVAqJ4gVCai1Z4xSB3RRBAMiq99wWCuOVlnwlur53hpKag4a4OF70c7XqZGvX84ppUMSZWkIHjESDjKxbtO5EhhVxGeKksckP-ZauuVV7O1QPUy_zo/s1600/how-to-use-anthropic-claude-chatgpt-rival.webp",
-      "description": "To harness the power of Claude, you can access it through multiple channels",
-      "link": "https://assetdigitalguide.blogspot.com/p/accessing-claude-various-integration.html"
-    },
-	{
-      "id": 10,
-      "name_category": "Guide",
-      "title": "What are some specific use cases for Claude AI?",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAQLv6NgMVZ9QpufQOt9Hbq7guqxVDK4hOq99vw7bF9Xzhol4TVJUVOXSF4r53pVz_ElVVnYfgfkVAqJ4gVCai1Z4xSB3RRBAMiq99wWCuOVlnwlur53hpKag4a4OF70c7XqZGvX84ppUMSZWkIHjESDjKxbtO5EhhVxGeKksckP-ZauuVV7O1QPUy_zo/s1600/how-to-use-anthropic-claude-chatgpt-rival.webp",
-      "description": "Specific use cases for Claude AI include:",
-      "link": "https://assetdigitalguide.blogspot.com/p/what-are-some-specific-use-cases-for.html"
-    },
-	{
-      "id": 11,
-      "name_category": "Guide",
-      "title": "Conclusion",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAQLv6NgMVZ9QpufQOt9Hbq7guqxVDK4hOq99vw7bF9Xzhol4TVJUVOXSF4r53pVz_ElVVnYfgfkVAqJ4gVCai1Z4xSB3RRBAMiq99wWCuOVlnwlur53hpKag4a4OF70c7XqZGvX84ppUMSZWkIHjESDjKxbtO5EhhVxGeKksckP-ZauuVV7O1QPUy_zo/s1600/how-to-use-anthropic-claude-chatgpt-rival.webp",
-      "description": "Anthropic’s AI chatbot, Claude, provides an alternative to GPTChat with its wide range of conversational and text-processing capabilities.",
-      "link": "https://assetdigitalguide.blogspot.com/p/conclusion_25.html"
-    },
-	{
-      "id": 12,
-      "name_category": "Guide",
-      "title": "FAQ Claude AI",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAQLv6NgMVZ9QpufQOt9Hbq7guqxVDK4hOq99vw7bF9Xzhol4TVJUVOXSF4r53pVz_ElVVnYfgfkVAqJ4gVCai1Z4xSB3RRBAMiq99wWCuOVlnwlur53hpKag4a4OF70c7XqZGvX84ppUMSZWkIHjESDjKxbtO5EhhVxGeKksckP-ZauuVV7O1QPUy_zo/s1600/how-to-use-anthropic-claude-chatgpt-rival.webp",
-      "description": "What tasks can organizations perform using Claude on Slack?",
-      "link": "https://assetdigitalguide.blogspot.com/p/faqs_25.html"
+      "name_category": "Under Maintenance",
+      "title": "This Application is Under Construction",
+      "image": "https://cdn.pixabay.com/photo/2017/06/20/08/12/maintenance-2422171_960_720.jpg",
+      "description": "We would like to inform you that the application is currently under maintenance",
+      "link": "<p>We would like to inform you that the application is currently undergoing maintenance and improvements. We apologize for any inconvenience this may cause and appreciate your patience as we work to enhance your experience.</p>"
     }
   ]
 }
