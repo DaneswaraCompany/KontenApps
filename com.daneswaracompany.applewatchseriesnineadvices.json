@@ -76,11 +76,35 @@
   "Data": [
     {
       "id": 1,
-      "name_category": "Under Maintenance",
-      "title": "This Application is Under Construction",
-      "image": "https://cdn.pixabay.com/photo/2017/06/20/08/12/maintenance-2422171_960_720.jpg",
-      "description": "We would like to inform you that the application is currently under maintenance",
-      "link": "<p>We would like to inform you that the application is currently undergoing maintenance and improvements. We apologize for any inconvenience this may cause and appreciate your patience as we work to enhance your experience.</p>"
+      "name_category": "Info",
+      "title": "Double Tap Gesture: A Revolution in Interaction",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYVSRPOaOYmNI7VoXZdcg2sIja6ByVs62XjMpCH1rr2INXC4z2IvblesTgODkodbgj99jR6SLDEA606TwNzGq87mkoxpPBF2qEZjw1TpZdXnt7_vyZHx75wIfpXHcgYWenH30XT6qUgkbHkph9ctIf8E0azaVdXrObr_gdTb4FbNptBMqQyR5sy-5WP5ze/w320-h180/maxresdefault%20(5).jpg",
+      "description": "Certainly, let's break down the key points about the Double Tap Gesture in the Apple Watch Series 9",
+      "link": "https://applenineseries.blogspot.com/p/double-tap-gesture-revolution-in.html"
+    },
+	  {
+      "id": 2,
+      "name_category": "Info",
+      "title": "Swift and Smart Siri: A Leap Forward in Series 9",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYVSRPOaOYmNI7VoXZdcg2sIja6ByVs62XjMpCH1rr2INXC4z2IvblesTgODkodbgj99jR6SLDEA606TwNzGq87mkoxpPBF2qEZjw1TpZdXnt7_vyZHx75wIfpXHcgYWenH30XT6qUgkbHkph9ctIf8E0azaVdXrObr_gdTb4FbNptBMqQyR5sy-5WP5ze/w320-h180/maxresdefault%20(5).jpg",
+      "description": "The Apple Watch Series 9 is not just about the Double Tap Gesture; it brings a substantial improvement to Siri's performance",
+      "link": "https://applenineseries.blogspot.com/p/swift-and-smart-siri-leap-forward-in.html"
+    },
+	  {
+      "id": 3,
+      "name_category": "Info",
+      "title": "Integration and Sustainability: Apple Watch Series 9",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYVSRPOaOYmNI7VoXZdcg2sIja6ByVs62XjMpCH1rr2INXC4z2IvblesTgODkodbgj99jR6SLDEA606TwNzGq87mkoxpPBF2qEZjw1TpZdXnt7_vyZHx75wIfpXHcgYWenH30XT6qUgkbHkph9ctIf8E0azaVdXrObr_gdTb4FbNptBMqQyR5sy-5WP5ze/w320-h180/maxresdefault%20(5).jpg",
+      "description": "The Apple Watch Series 9 brings forth not only cutting-edge technology but also a firm commitment to integration, aesthetics, and sustainability",
+      "link": "https://applenineseries.blogspot.com/p/integration-and-sustainability-apple.html"
+    },
+	  {
+      "id": 4,
+      "name_category": "Info",
+      "title": "The Evolution of Apple Watches",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYVSRPOaOYmNI7VoXZdcg2sIja6ByVs62XjMpCH1rr2INXC4z2IvblesTgODkodbgj99jR6SLDEA606TwNzGq87mkoxpPBF2qEZjw1TpZdXnt7_vyZHx75wIfpXHcgYWenH30XT6qUgkbHkph9ctIf8E0azaVdXrObr_gdTb4FbNptBMqQyR5sy-5WP5ze/w320-h180/maxresdefault%20(5).jpg",
+      "description": "The Apple Watch Series 9 is not just another iteration of a smartwatch; it's a testament to Apple's commitment to shaping the future of wearable technology.",
+      "link": "https://applenineseries.blogspot.com/p/a-glimpse-into-future-evolution-of.html"
     }
   ]
 }
