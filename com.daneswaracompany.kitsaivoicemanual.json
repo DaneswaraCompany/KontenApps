@@ -76,11 +76,35 @@
   "Data": [
     {
       "id": 1,
-      "name_category": "Under Maintenance",
-      "title": "This Application is Under Construction",
-      "image": "https://cdn.pixabay.com/photo/2017/06/20/08/12/maintenance-2422171_960_720.jpg",
-      "description": "We would like to inform you that the application is currently under maintenance",
-      "link": "<p>We would like to inform you that the application is currently undergoing maintenance and improvements. We apologize for any inconvenience this may cause and appreciate your patience as we work to enhance your experience.</p>"
+      "name_category": "Guide",
+      "title": "What is Kits.AI?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZtAR9gZ4EDcS6IU9yG9ShZBsGXzAzf4cVgHim4h0TpreiGGdjLQSj7c0B0uJm2xTyUduyk7Yn1Cqyfi9cdj4nPyBTRIQXmnAkn8-OKeERCb7JebaW3Se8Zzi6cNa82RxowBShnwpAkH644WxQk_dYAZuhNnKwVFDTkBETz5wzLoF062FnxDeT9O4XQhM/s320/image-31-1024x450.png",
+      "description": "The Ultimate AI Voice Platform for Musicians",
+      "link": "https://assetdigitalguide.blogspot.com/p/what-is-kitsai.html"
+    },
+	  {
+      "id": 2,
+      "name_category": "Guide",
+      "title": "Exploring the Remarkable Features of Kits.AI",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZtAR9gZ4EDcS6IU9yG9ShZBsGXzAzf4cVgHim4h0TpreiGGdjLQSj7c0B0uJm2xTyUduyk7Yn1Cqyfi9cdj4nPyBTRIQXmnAkn8-OKeERCb7JebaW3Se8Zzi6cNa82RxowBShnwpAkH644WxQk_dYAZuhNnKwVFDTkBETz5wzLoF062FnxDeT9O4XQhM/s320/image-31-1024x450.png",
+      "description": "Empowering Musicians with AI Innovation",
+      "link": "https://assetdigitalguide.blogspot.com/p/exploring-remarkable-features-of-kitsai.html"
+    },
+	  {
+      "id": 3,
+      "name_category": "Guide",
+      "title": "Mastering the Art of Training AI Voice Models with Kits.AI",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZtAR9gZ4EDcS6IU9yG9ShZBsGXzAzf4cVgHim4h0TpreiGGdjLQSj7c0B0uJm2xTyUduyk7Yn1Cqyfi9cdj4nPyBTRIQXmnAkn8-OKeERCb7JebaW3Se8Zzi6cNa82RxowBShnwpAkH644WxQk_dYAZuhNnKwVFDTkBETz5wzLoF062FnxDeT9O4XQhM/s320/image-31-1024x450.png",
+      "description": "Here's a comprehensive guide on how to do it with Kits.AI.",
+      "link": "https://assetdigitalguide.blogspot.com/p/mastering-art-of-training-ai-voice.html"
+    },
+	  {
+      "id": 4,
+      "name_category": "Guide",
+      "title": "Embracing the Benefits of AI Voice Creation",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZtAR9gZ4EDcS6IU9yG9ShZBsGXzAzf4cVgHim4h0TpreiGGdjLQSj7c0B0uJm2xTyUduyk7Yn1Cqyfi9cdj4nPyBTRIQXmnAkn8-OKeERCb7JebaW3Se8Zzi6cNa82RxowBShnwpAkH644WxQk_dYAZuhNnKwVFDTkBETz5wzLoF062FnxDeT9O4XQhM/s320/image-31-1024x450.png",
+      "description": "Let's delve into the advantages of using Kits.AI to create and explore AI voices.",
+      "link": "https://assetdigitalguide.blogspot.com/p/unlocking-creative-power-of-kitsai.html"
     }
   ]
 }
