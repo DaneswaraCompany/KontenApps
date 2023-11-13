@@ -5,14 +5,15 @@
       "interstitial_type" : "lap",
       "switch_ads_type": "only_banner",
       "make_app_crash_when_app_not_live_at_play_store": false,
-      "make_app_under_maintenance": false
+      "make_app_under_maintenance": false,
+	"rate_dialog_count": 99999
     },
 
     "ad_network": [
       {
         "name": "off",
         "value": 1,
-
+	"min_time":120,
         "appId_appKey_publisherId_gameId": "318378200711469",
         "banner": "318378200711469_323021023580520",
         "mrec": "off",
