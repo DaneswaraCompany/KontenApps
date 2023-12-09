@@ -1,4 +1,24 @@
 {
+    "ads": {
+        "settings": {
+            "start_interval_interstitial_in_second": 30,
+            "interval_interstitial_in_second": 120,
+            "app_must_live_at_play_store": true
+        },
+        "ad_network": [
+            {
+                "name": "off",
+                "appId_appKey_publisherId_gameId": "-",
+                "banner": "-",
+                "inter": "-"
+            }
+        ]
+    }
+}
+
+
+
+{
   "ads": {
     "settings": {
       "rate_dialog_count" : 99999,
