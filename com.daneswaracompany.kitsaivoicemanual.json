@@ -3,7 +3,7 @@
     "settings": {
       "start_interval_interstitial_in_second": 30,
       "interval_interstitial_in_second": 60,
-      "app_must_live_at_play_store": false
+      "app_must_live_at_play_store": true
     },
 
     "ad_network": [
